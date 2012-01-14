@@ -1,3 +1,5 @@
+The site is hosted [here](http://reiddraper.github.com/distreader)
+
 To build the site locally:
 
 ```
