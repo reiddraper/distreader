@@ -12,6 +12,8 @@
 ## Application
 
 * [Dynamo: Amazon’s Highly Available Key-value Store](http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
+* [The Google File System](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/archive/gfs-sosp2003.pdf)
+* [Bigtable: A Distributed Storage System for Structured Data](http://research.google.com/archive/bigtable-osdi06.pdf)
 
 ## General
 
