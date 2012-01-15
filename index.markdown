@@ -7,6 +7,7 @@
 
 * [Eventually Consistent - Revisited](http://www.allthingsdistributed.com/2008/12/eventually_consistent.html)
 * [Consistency Analysis in Bloom: a CALM and Collected Approach](http://www.cs.berkeley.edu/~palvaro/cidr11.pdf)
+* [A comprehensive study of Convergent and Commutative Replicated Data Types](http://hal.inria.fr/docs/00/55/55/88/PDF/techreport.pdf)
 
 ## Application
 
