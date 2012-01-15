@@ -6,6 +6,8 @@
 ## Consistency
 
 * [Eventually Consistent - Revisited](http://www.allthingsdistributed.com/2008/12/eventually_consistent.html)
+* [Consistency Analysis in Bloom: a CALM and Collected
+Approach](http://www.cs.berkeley.edu/~palvaro/cidr11.pdf)
 
 ## Application
 
